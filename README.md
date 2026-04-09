@@ -19,6 +19,7 @@ snake-game/
 ├── main.py              # Main entry point
 ├── requirements.txt     # Project dependencies
 └── record.txt           # Local high score storage
+´´´
 
 ## 📦 Installation & Setup
 
